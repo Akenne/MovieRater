@@ -1,0 +1,1 @@
+This is the first program I made in Python that I found useful, it movies movie files to different folders corresponding with a rating you give them out of 10.
